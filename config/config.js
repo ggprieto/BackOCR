@@ -1,0 +1,1 @@
+module.exports.SEED = 'Llave-de-OCRAPP-50123';
